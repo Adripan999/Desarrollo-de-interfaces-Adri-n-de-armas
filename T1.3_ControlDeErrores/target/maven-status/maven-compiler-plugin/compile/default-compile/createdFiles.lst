@@ -1,0 +1,5 @@
+com\gestorFacturas\_controldeerrores\Main.class
+com\gestorFacturas\vista\Ventana_Facturas.class
+com\gestorFacturas\controlador\Controlador_Facturas.class
+com\gestorFacturas\modelo\Factura.class
+com\gestorFacturas\modelo\Gestor_Facturas.class
